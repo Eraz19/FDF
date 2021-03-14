@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach\tmethod"
+			],
+			[
+				"delete",
+				"delete_Entity_args\tconst"
+			],
+			[
+				"maube",
+				"maybe_getPropertyValue_response\tconst"
+			],
+			[
+				"may",
+				"maybe_registryLen_response"
+			],
+			[
+				"create",
+				"create_getRegistryLen_args\tconst"
+			],
+			[
+				"LATT",
+				"LATITUDE_ATTRIBUTE"
+			],
+			[
+				"a",
+				"avial"
+			],
+			[
+				"NULL",
+				"NULL_TEMPLATE"
+			],
+			[
+				"templatre",
+				"template_characteristics\tconst"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"value",
+				"value_index\tparameter"
+			],
+			[
+				"va",
+				"value_index\tparameter"
+			],
+			[
+				"onCha",
+				"onChangeCharacteristic\tconst"
+			],
+			[
+				"template",
+				"template_characteristics_temp\tconst"
+			],
+			[
+				"templa",
+				"template_characteristics_temp"
+			],
+			[
+				"Rege",
+				"ReferenceInRegistry\talias"
+			],
+			[
+				"Compr",
+				"ComprehensiveFormat\tinterface"
+			],
+			[
+				"maybe",
+				"maybe_template_registry\tconst"
+			],
+			[
+				"Avial",
+				"AvialMaybe\talias"
+			],
+			[
+				"class",
+				"Class_Attributes"
+			],
+			[
+				"Subcl",
+				"SubclassComprehensiveString\tenum"
+			],
+			[
+				"patter",
+				"pattern_data\tlet"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"fori",
+				"forin\tfor … in … loop"
+			],
+			[
+				"patte",
+				"pattern_data\tlet"
+			],
+			[
+				"entity",
+				"entity_data\tparameter"
+			],
+			[
+				"Str",
+				"String_toAny"
+			],
+			[
+				"Comp",
+				"ComprehensiveFormat\tinterface"
+			],
+			[
+				"patetr",
+				"pattern_comprehensive_format\tconst"
+			],
+			[
+				"avia",
+				"avial-server\tscript"
+			],
+			[
+				"tye",
+				"types\tscript"
+			],
+			[
+				"rea",
+				"read_result\tint read_result"
+			],
+			[
+				"str",
+				"str3\tt_char * str3"
+			],
+			[
+				"st",
+				"str3\tt_char * str3"
+			],
+			[
+				"str2",
+				"str2_len"
+			],
+			[
+				"to",
+				"to_prepend_len"
+			],
+			[
+				"add",
+				"add_str"
+			],
+			[
+				"to_",
+				"to_append_len\tt_size to_append_len"
+			],
+			[
+				"t",
+				"t_u8"
+			],
+			[
+				"buffer",
+				"buffer_list\tt_char ** buffer_list"
+			],
+			[
+				"read",
+				"read_result"
+			],
+			[
+				"re",
+				"read_result\tint read_result"
+			],
+			[
+				"t_si",
+				"t_size\tt_size"
+			],
+			[
+				"bufer",
+				"buffer_list\tt_char ** buffer_list"
+			],
+			[
+				"new",
+				"new_mem\tvoid * new_mem"
+			],
+			[
+				"ft_mem",
+				"ft_memccpy\tvoid * ft_memccpy(void *dest, const void *src, t_u8 c, t_size n)"
+			],
+			[
+				"BU",
+				"BUFF_SIZE"
+			],
+			[
+				"bu",
+				"buffer\tchar [55] buffer"
+			],
+			[
+				"temp",
+				"temp_nbr\tt_u64 temp_nbr"
+			],
+			[
+				"tmp",
+				"temp_nbr\tt_u16 temp_nbr"
+			],
+			[
+				"sub",
+				"sub_str_len\tt_size sub_str_len"
+			],
+			[
+				"ft_stre",
+				"ft_strlen\tt_size ft_strlen(const t_char *str)"
+			],
+			[
+				"src",
+				"src_len\tt_size src_len"
+			],
+			[
+				"des",
+				"dest_len\tt_size dest_len"
+			],
+			[
+				"mem",
+				"mem1\tconst void * mem1"
+			],
+			[
+				"ts",
+				"t_s8"
+			],
+			[
+				"t_",
+				"t_s8"
+			],
+			[
+				"SIZE",
+				"SIZE_64BITS_MAX_BUFFER\tSIZE_64BITS_MAX_BUFFER"
+			],
+			[
+				"t_s",
+				"t_size"
+			],
+			[
+				"u",
+				"u32_cast\tt_u32 u32_cast"
+			],
+			[
+				"ma",
+				"mantissa\tt_u32 mantissa"
+			],
+			[
+				"nbr",
+				"nbr_cast\tu_float32_cast nbr_cast"
+			],
+			[
+				"n",
+				"nbr_cast\tu_float32_cast nbr_cast"
+			],
+			[
+				"cha",
+				"char_hex_value\tt_u8 char_hex_value"
+			],
+			[
+				"ft_isal",
+				"ft_isalpha\tt_bool ft_isalpha(t_char_utf8 c)"
+			],
+			[
+				"char",
+				"char_value\tt_u8 char_value"
+			],
+			[
+				"ft_",
+				"ft_isdigit\tt_bool ft_isdigit(t_char_utf8 c)"
+			],
+			[
+				"e",
+				"e_case_style"
+			],
+			[
+				"float",
+				"float32_to_convert\tu_float32_cast float32_to_convert"
+			],
+			[
+				"ft_print",
+				"ft_print_u32_binary\tt_char * ft_print_u32_binary(t_u32 value)"
+			],
+			[
+				"B",
+				"BUFFER_8BITS\tBUFFER_8BITS"
+			],
+			[
+				"T",
+				"T_8_MASK\tT_8_MASK"
+			],
+			[
+				"t_u",
+				"t_u8\tt_u8"
+			],
+			[
+				"si",
+				"significant_number\tt_u32 significant_number"
+			],
+			[
+				"floa",
+				"float32_to_convert\tu_float32_cast float32_to_convert"
+			],
+			[
+				"SI",
+				"SIGNIFICANT_FLOAT32_MASK\tSIGNIFICANT_FLOAT32_MASK"
+			],
+			[
+				"flo",
+				"float32_to_convert\tu_float32_cast float32_to_convert"
+			],
+			[
+				"CHARSE",
+				"CHARSET_PUNCTUATION\tCHARSET_PUNCTUATION"
+			],
+			[
+				"con",
+				"content\tvoid * content"
+			],
+			[
+				"content",
+				"content_size\tsize_t content_size"
+			],
+			[
+				"libft",
+				"libft.h\t/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr"
+			],
+			[
+				"lib",
+				"libft"
+			],
+			[
+				"ft_d",
+				"ft_lstdelone\tvoid ft_lstdelone(t_list **a_link, void (*del)(void **, t_size))"
+			],
+			[
+				"N",
+				"NULL_POINTER_EXCEPTION_CHECK\tNULL_POINTER_EXCEPTION_CHECK"
+			],
+			[
+				"STD",
+				"STDOUT_FILENO\tSTDOUT_FILENO"
+			],
+			[
+				"libft_",
+				"libft_convert.h\t/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr"
+			],
+			[
+				"conet",
+				"content_size\tt_size content_size"
+			],
+			[
+				"ft_lst",
+				"ft_lstappend\tvoid ft_lstappend(t_list *lst, t_list *new_link)"
+			],
+			[
+				"new_",
+				"new_list_link\tt_list * new_list_link"
+			],
+			[
+				"ft_del",
+				"ft_lstdelone\tvoid ft_lstdelone(t_list **a_lst, void (*del)(void **, t_size))"
+			],
+			[
+				"lst",
+				"ft_lstdel\tvoid ft_lstdel(t_list **a_lst, void (*del)(void *, t_size))"
+			],
+			[
+				"next",
+				"next_link\tt_list * next_link"
+			],
+			[
+				"conten",
+				"content_size\tt_size content_size"
+			],
+			[
+				"c",
+				"content_size\tsize_t content_size"
+			],
+			[
+				"is",
+				"is_negative\tt_bool is_negative"
+			],
+			[
+				"su",
+				"sub_str_len"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"sub_str",
+				"sub_str_len"
+			],
+			[
+				"strat",
+				"start_sub_str_add"
+			],
+			[
+				"start",
+				"start_sub_str"
+			],
+			[
+				"ft_pu",
+				"ft_putchar"
+			],
+			[
+				"resu",
+				"result_sign"
+			],
+			[
+				"new_str",
+				"new_str_arr"
+			],
+			[
+				"free",
+				"free_str_arr"
+			],
+			[
+				"s",
+				"start_str_i"
+			],
+			[
+				"nes",
+				"new_str_i"
+			],
+			[
+				"end",
+				"end_i"
+			],
+			[
+				"star",
+				"start_i"
+			],
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"s2",
+				"s2_i"
+			],
+			[
+				"s1_",
+				"s1_len"
+			],
+			[
+				"s1",
+				"s1_len"
+			],
+			[
+				"t_char",
+				"t_char_utf8"
+			],
+			[
+				"sub_",
+				"sub_str_len"
+			],
+			[
+				"sr",
+				"str1"
+			],
+			[
+				"ds",
+				"dest_len"
+			],
+			[
+				"srt",
+				"strlen"
+			],
+			[
+				"dest",
+				"dest_len"
+			],
+			[
+				"t_u8_",
+				"t_u8_str1"
+			],
+			[
+				"cp",
+				"cpy_s"
+			],
+			[
+				"cpy",
+				"cpy_s_char"
+			],
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"ft",
+				"ft_write_line"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"m",
+				"match_i"
+			],
+			[
+				"quer",
+				"query_len"
+			],
+			[
+				"ft_e",
+				"ft_strnequ"
+			],
+			[
+				"query",
+				"query_len"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Depende",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/eraz/Documents/Cour/Projet_C/fdf"
+	],
+	"file_history":
+	[
+		"/home/eraz/.config/sublime-text-3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/home/eraz/.config/sublime-text-3/Packages/User/EasyClangComplete.sublime-settings",
+		"/home/eraz/Documents/Cour/Projet_C/fdf/.clang_complete",
+		"/home/eraz/Documents/Cour/Projet_C/fdf/SDL2/SDL_video.h",
+		"/home/eraz/Documents/Cour/Projet_C/fdf/SDL2/SDL_keyboard.h",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/server/src/routers/pattern.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/server/src/routers/template.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/server/src/avialCalls.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/components/RegisteryDisplayer.tsx",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/connectedComponents/connectedComponents.tsx",
+		"/home/eraz/Documents/Cour/Projet_C/libccc/hdr/libccc.h",
+		"/home/eraz/Documents/Cour/Projet_C/libccc/src/math/trig.c",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/components/CreateTemplateEntity.tsx",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/containers/Composer/Center.tsx",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/containers/Composer/Left.tsx",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/store/actions/template.tsx",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/node_modules/@ledr-technologies/avesterra_typescript_binding/types.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/node_modules/@ledr-technologies/avesterra_typescript_binding/binding_args.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/server/src/routers/entity.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/server/src/index.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/src/endpoint.tsx",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/node_modules/@ledr-technologies/avesterra_typescript_binding/avial-server.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/node_modules/@ledr-technologies/avesterra_typescript_binding/binding.d.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/node_modules/@ledr-technologies/avesterra_typescript_binding/taxonomy.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/node_modules/ansi-escapes/node_modules/type-fest/source/basic.d.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/react/node_modules/levn/lib/cast.js",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra-AvesTerra/TypeScript_binding/index.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/node_modules/@ledr-technologies/avesterra_typescript_binding/types.ts",
+		"/home/eraz/Documents/Professional/LEDR/Orchestra/LEDR-Appliance/build/src/avialCalls.js",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_io/ft_read_file.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_string.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strmerge.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strjoin.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strprepend.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strappend.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_memory.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_memory/ft_memdup.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_memory/ft_realloc.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strlen.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strdup.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/main.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s16_to_str.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s32_to_str.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s16_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s8_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s8_to_str.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strrtrim.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strtrim.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strchr.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strequ.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strnequ.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strstr.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strnstr.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strrchr.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strncmp.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strlcpy.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strcmp.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strncpy.c",
+		"/home/eraz/.config/sublime-text-3/Packages/C Improved/C Improved.tmLanguage",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/util.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_memory/ft_memccpy.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_memory/ft_memcpy.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_memory/ft_memcmp.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_memory/ft_memmove.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strcpy.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_memory.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_convert.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/Makefile",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_f32_to_hex_str.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_char.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_char/ft_isalnum.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/main.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_math.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_io.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/hdr/libft_list.h",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_list/ft_del_content_data.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_list/ft_lstdelone.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_list/ft_lstnew.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_Lexou/test/util.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_random.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_stat.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_string.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_stringarray.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_vlq.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_math.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_char.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_color.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_convert.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_io.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/test/test_list.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/project.sublime-project",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_u8.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_u16.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_u32.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_u64.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_s8.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_s16.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_s64.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_strbase_to_s32.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_math/ft_pow.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strichr.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u16_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s64_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_s32_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u32_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u64_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u8_to_strbase.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_f32_to_str.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_hex_to_u64.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_hex_to_u8.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_hex_to_u32.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_hex_to_u16.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u32_to_hex.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u64_to_hex.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u16_to_hex.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_u8_to_hex.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strrev.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_str_to_bool.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_string/ft_strtolower.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_char/ft_tolower.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_convert/ft_bool_to_str.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_io/ft_print_u64_binary.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_io/ft_print_u32_binary.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_io/ft_print_u16_binary.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_io/ft_print_s8_binary.c",
+		"/home/eraz/Documents/Cour/Projet_C/libft_alex/src/libft_io/ft_print_s16_binary.c"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.typescript_output":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
